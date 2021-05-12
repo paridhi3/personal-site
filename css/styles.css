@@ -132,7 +132,8 @@ hr {
 a {
   color: #11999E;
   text-decoration: none;
-  font-family: 'Itim', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
   margin: 10px 20px;
 }
 a:hover {
